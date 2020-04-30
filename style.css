@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+    height: 200vh;
+    background-color: #c8c8c8;
+}
+
+.head {
+    position: fixed;
+    display: block;
+    left: 35%;
+
+
+}
